@@ -1,4 +1,4 @@
-# README
+# git branch 명령어 정리 
 
 - add text
 
